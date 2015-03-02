@@ -5,14 +5,15 @@ My collection of notes from [EmberConf 2015](http://emberconf.com/).
 ## Installation
 
 ```
-git clone https://github.com/johnotander/emberconf2015-notes.git && cd emberconf2015-notes
+git clone https://github.com/johnotander/emberconf2015-notes.git
+cd emberconf2015-notes
 jekyll serve --watch
 ```
 
 ## Acknowledgements
 
-Thanks to the wonderful speakers/organizers at EmberConff. Built with Jekyll and
-[featherbass](https://github.com/jxnblk/featherbass).
+* Thanks to the wonderful speakers/organizers at EmberConf.
+* Built with Jekyll and [featherbass](https://github.com/jxnblk/featherbass).
 
 ## License
 

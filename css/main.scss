@@ -6,6 +6,10 @@
 @import 'base';
 @import 'syntax-highlighting';
 
+body {
+  margin: .25rem;
+}
+
 pre {
   padding: .75rem;
 }

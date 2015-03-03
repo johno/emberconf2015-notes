@@ -22,3 +22,13 @@ So, what are they?:
 * How I think a thing works.
 
 Ever evolving, can be updated and changed.
+
+What is "home"? It's more than a kitchen sink or couch. There are characteristics
+like a roof, windows, door, etc. This concept evolved over time.
+
+Types of mental models:
+
+* Macro: From a distance, initial assessment
+* Micro: How the individual interaction works
+
+

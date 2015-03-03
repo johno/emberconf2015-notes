@@ -40,5 +40,30 @@ The HTML dictates the version of the app to launch:
 HTML should be managed and deployed as part of the static asset deployment process. Shouldn't be
 deployed by the API server (API shouldn't be re-deployed for asset changes).
 
+### How do we achieve this?
 
+S3, Redis in concert.
 
+Preview before activating `someurl.com/apps?release=foobar`
+
+## Dynamic HTML rewriting
+
+Use a Rails controller to inject data into the HTML. Useful for feature flags, sessions, tokens, etc.
+
+Super simple A/B testing. Such rad.
+
+## Tooling
+
+Ember CLI friendly:
+
+* ember-deploy
+* front-end-builds
+* ember-cli-deploy
+
+All powers combined to now become ember-cli-deploy: <https://github.com/ember-cli/ember-cli-deploy>.
+
+Paving the cowpaths!
+
+## ember-cli-deploy
+
+A quickly growing ecosystem with ember-cli addon integration.

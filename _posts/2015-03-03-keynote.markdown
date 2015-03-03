@@ -28,6 +28,13 @@ Ember is growing: more apps, CLI users, addons, meetups/user groups.
 * JSON API out of the box
 * First class support for pagination and filtering
 
+Ember 2.0 release date of June 12. Same for Ember Inspector, Ember CLI, ALL THE THINGS!!!
+
+## Ember CLI FastBoot
+
+Ember on the server :). This is great for mobile devices and older machines. An end user will
+be able to see a particular page's content before the JS executes (or those NoScript users).
+
 #### How can we help?:
 
 * Test beta apps

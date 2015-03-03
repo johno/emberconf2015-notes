@@ -41,4 +41,23 @@ But, don't copy.
 
 Use mental models explicitly if they exist. However, sometimes it's worthwhile to break them (iPod).
 
+### Thinning out spinners
+
+Provide a skeleton UI for content to follow. Makes an app feel faster than a spinner. Feels like
+something is happening, things are moving, stay tuned.
+
+### Carry context
+
+Connect the experience between devices.
+
+> Can be a major save.
+
+## Micro > Macro
+
+Core interactions become a symbol of your app. Example: Threes, iOS thumbprint scanner.
+
+### Offline mode "Goliath mode"
+
+Disallow editing?: __No__.
+
 

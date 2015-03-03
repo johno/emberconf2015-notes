@@ -35,3 +35,23 @@ Patch 1 + Patch 2: 10% regression
 Is type information optimizable? Sure, we can specialize (crankshaft).
 
 `a + b` can be optimized to b 100x faster. However, it can be more brittle.
+
+The compiler has a concept of shapes. If the runtime believes the code is stable, it can
+be optimized. Allocation and cleanup is _expensive_. Just like closures, objects, compiled code,
+and shape allocations.
+
+Well-factored code can introduce fewer shapes => performance.
+
+## Mis-alignments
+
+* Ember does too much work
+  * Actions up, bindings down
+  * Singleton controllers
+  * Improved clarity => faster
+* Init/super
+  * Hard to learn
+  * Extra shapes
+  * Prototype reads
+  * Mis-aligned with ES2015
+  * We should embrace super
+

@@ -13,7 +13,7 @@ Ember is growing: more apps, CLI users, addons, meetups/user groups.
 * Rapid release cycle
 * RFC process
 * Features
-  * HTMLBars (no more `bind-attr`!, block params, faster with less memory`, etc)
+  * HTMLBars (no more `bind-attr`!, block params, faster with less memory, etc)
   * Robust Ember Inspector
   * Ember CLI!!!!
   * Testing ecosystem, query params, Ember Data rethink

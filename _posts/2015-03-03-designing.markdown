@@ -31,4 +31,14 @@ Types of mental models:
 * Macro: From a distance, initial assessment
 * Micro: How the individual interaction works
 
+Tinder example:
+
+The communication model on iOS was taken from texting to their messaging. It's a model
+that already exists. Designing to utilize these models creates a framework of understanding.
+Thus increasing usability, with a clear path for learning.
+
+But, don't copy.
+
+Use mental models explicitly if they exist. However, sometimes it's worthwhile to break them (iPod).
+
 

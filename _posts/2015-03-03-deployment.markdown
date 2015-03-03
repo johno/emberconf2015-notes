@@ -66,4 +66,5 @@ Paving the cowpaths!
 
 ## ember-cli-deploy
 
-A quickly growing ecosystem with ember-cli addon integration.
+A quickly growing ecosystem with ember-cli addon integration. Considerations being made for integrating
+with FastBoot, too.

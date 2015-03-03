@@ -32,5 +32,6 @@ Patch 1: 5% improvement
 Patch 2: 5% improvement
 Patch 1 + Patch 2: 10% regression
 
+Is type information optimizable? Sure, we can specialize (crankshaft).
 
-
+`a + b` can be optimized to b 100x faster. However, it can be more brittle.

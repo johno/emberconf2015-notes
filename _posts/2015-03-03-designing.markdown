@@ -60,4 +60,16 @@ Core interactions become a symbol of your app. Example: Threes, iOS thumbprint s
 
 Disallow editing?: __No__.
 
+#### Responding optimistically
+
+Allow you to interact without internet access. Queues up the actions to be done later.
+
+Can cause issues.
+
+# Tools of the Trade
+
+A free design pattern library.
+
+<http://toolsofthetrade.dockyard.com>
+
 

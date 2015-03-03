@@ -27,3 +27,9 @@ HN Urls => serialized app states
 to consume. For the sake of hn-reader, a new adapter can be created.
 
 Local storage is very similar to `Ember.Observable`. 
+
+The adapter pattern is rad.
+
+Possibilities:
+
+* CocoaBars!

@@ -44,6 +44,12 @@ HTMLbars will take a slightly different approach. It will not track elements of 
 like a wrapper div. The idea is that declarative syntax of Ember templating, Ember knows what parts will
 and will not change. Thus allowing further optimization that React's imperative paradigm cannot.
 
+DEMO: <dbmonster.firebaseapp.com>
+
+This rendering engine will be called Glimmer.
+
+<https://is-ember-fast-yet.firebaseapp.com/>
+
 #### How can we help?:
 
 * Test beta apps

@@ -28,9 +28,9 @@ Guided evolution, can't evolve too quickly. Must be productive for developers, b
 
 ## So it goes...
 
-Patch 1: 5% improvement
-Patch 2: 5% improvement
-Patch 1 + Patch 2: 10% regression
+Patch 1: 5% improvement  
+Patch 2: 5% improvement  
+Patch 1 + Patch 2: 10% regression  
 
 Is type information optimizable? Sure, we can specialize (crankshaft).
 

@@ -35,6 +35,15 @@ Ember 2.0 release date of June 12. Same for Ember Inspector, Ember CLI, ALL THE 
 Ember on the server :). This is great for mobile devices and older machines. An end user will
 be able to see a particular page's content before the JS executes (or those NoScript users).
 
+## Performance
+
+React/Ember.js comparison. Yehuda and Tom agree, performance is something that needs to improve. React
+leverages the VirtualDOM since the DOM is a performance bottleneck with DOM batching to avoid repaints, etc.
+
+HTMLbars will take a slightly different approach. It will not track elements of the DOM that won't change,
+like a wrapper div. The idea is that declarative syntax of Ember templating, Ember knows what parts will
+and will not change. Thus allowing further optimization that React's imperative paradigm cannot.
+
 #### How can we help?:
 
 * Test beta apps

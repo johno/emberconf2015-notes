@@ -1,0 +1,23 @@
+---
+layout: post
+title:  The Opening Keynote
+date:   2015-03-03 09:24:20
+categories:
+speaker: Yehuda Katz and Tom Dale
+---
+
+Ember is growing: more apps, CLI users, addons, meetups/user groups.
+
+#### What's new since 2014?:
+
+* Rapid release cycle
+* RFC process
+* Features
+  * HTMLBars (no more `bind-attr`!, block params, faster with less memory`, etc)
+  * Robust Ember Inspector
+  * Ember CLI!!!!
+  * Testing ecosystem, query params, Ember Data rethink
+
+#### How can we help?:
+
+* Test beta apps

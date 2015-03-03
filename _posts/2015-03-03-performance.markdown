@@ -54,4 +54,21 @@ Well-factored code can introduce fewer shapes => performance.
   * Prototype reads
   * Mis-aligned with ES2015
   * We should embrace super
+  * Explicity defaults in super
+* Ember.Object.reopen
+  * Complex internals
+  * Causes massive allocations and shapes
+  * Buggy
+  * Limit reopen to 'before first object instantiation'
+
+Lazy reopen code is a cause for performance hits, same for `Meta` and `actionsFor`. `Meta` is
+live inheriting, causing new shapes. Can be resolved with working with V8, killing reopen after
+instantiation.
+
+Premature optimization isn't a good thing. It should be done when it actually matters, to the
+code that actually needs it.
+
+Benchmarks will trick you. You need insight, measurement, and peer review.
+
+# Actions up and bindings down
 

@@ -50,6 +50,10 @@ This rendering engine will be called Glimmer.
 
 <https://is-ember-fast-yet.firebaseapp.com/>
 
+These additions will be compatible with current apps, allowing us to upgrade with ease <3.
+
+# It's our antidote to hype fatigue!
+
 #### How can we help?:
 
 * Test beta apps

@@ -36,4 +36,33 @@ Creates a consistent, uniform infrastructure. It brings forth conventions.
 
 `ember build` -> Script for CI -> Addon -> `ember deploy` -> Deploy server
 
+#### Testing progression
+
+`ember test` -> xhr interceptor for adding data to the app -> Addon -> Clientside server
+
+## What happened
+
+Helped to identify redundancies and add abstractions.
+
+## Tomorrow
+
+semver + CLI conventions
+
+Consistency brings flexibility. Also brings forth standards and best practices.
+
+Helped to standardize:
+
+Promises
+Rendering layer
+API standards
+ES6 modules
+
+## Considerations
+
+It's okay to start with a monolith. In fact, it's a good thing. However, sometimes
+the process and structure will need to evolve in the future.
+
+# Ember is not just a framework, it's a philosophy
+
+Fold in shared solutions. Innovate and share.
 

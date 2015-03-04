@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dynamic Graphic Composition in Ember
-date:   2015-03-03 16:00:20
+date:   2015-03-03 16:30:20
 categories:
 speaker: Chris Henn
 ---

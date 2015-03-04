@@ -6,6 +6,8 @@ categories:
 speaker: Toran Billups
 ---
 
+Not too much not taking here. Too much radical live coding.
+
 ## Acceptance test
 
 `ember g acceptance foobar`

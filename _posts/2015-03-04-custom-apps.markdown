@@ -6,6 +6,8 @@ categories:
 speaker: Brittany Storoz
 ---
 
+Slides: <http://brittanystoroz.github.io/presentations/embercli-fxos/>
+
 Ember CLI fills a huge void in the JavaScript development flow.
 
 Needs to add upon the Ember CLI for Firefox OS:

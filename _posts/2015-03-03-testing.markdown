@@ -13,7 +13,7 @@ speaker: Toran Billups
 {% highlight javascript %}
 find('table.unassigned tr.cards');
 assert.equal(3);
-{% end %}
+{% endhighlight %}
 
 Once the basic test is passing, then add a more specific test
 
@@ -22,7 +22,7 @@ find('table.unassigned tr.cards');
 assert.equal(3);
 var project = find('table.unassigned tr.cards:eq(0)');
 assert.equal(project.text(), 'first');
-{% end %}
+{% endhighlight %}
 
 Then, refactor the selector
 
@@ -31,4 +31,4 @@ find('.unassigned .cards');
 assert.equal(3);
 var project = find('.unassigned .cards:eq(0)');
 assert.equal(project.text(), 'first');
-{% end %}
+{% endhighlight %}

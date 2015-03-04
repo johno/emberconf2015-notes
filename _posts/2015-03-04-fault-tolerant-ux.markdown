@@ -44,4 +44,17 @@ provides an avenue for consistent and durable UX.
 
 > Rethink assumptions and primitives.
 
-Normalized data, evented connections.
+Normalized data, evented connections, promisified methods.
+
+## Orbit.js
+
+Primary interfaces: requestable and transformable.
+
+Connectors deal with synchronous event handling, with promise-aware events. They
+translate events between sources, and wait (async blocking).
+
+ember-orbit
+
+URLs drive app state in Ember apps => sources drive model state in orbit.
+
+<https://github.com/orbitjs>

@@ -6,7 +6,7 @@ categories:
 speaker: Sam Selikoff
 ---
 
-Daya -> API -> Interface
+Data -> API -> Interface
 
 Backends are scalable and consistent.
 

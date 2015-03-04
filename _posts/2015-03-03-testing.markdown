@@ -32,3 +32,22 @@ assert.equal(3);
 var project = find('.unassigned .cards:eq(0)');
 assert.equal(project.text(), 'first');
 {% endhighlight %}
+
+Red, green, for the win.
+
+## Unit test
+
+{% highlight javascript %}
+import { module, test } from 'qunit';
+import Todo from 'path/to/todo';
+
+module('todo');
+
+test('it does stuff', function() {
+  // Test all the things...
+});
+{% endhighlight %}
+
+
+`ember test --server --filter="todo"`
+

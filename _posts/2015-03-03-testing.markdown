@@ -1,0 +1,34 @@
+---
+layout: post
+title:  Test-Driven Development by Example
+date:   2015-03-03 17:30:20
+categories:
+speaker: Toran Billups
+---
+
+## Acceptance test
+
+`ember g acceptance foobar`
+
+{% highlight javascript %}
+find('table.unassigned tr.cards');
+assert.equal(3);
+{% end %}
+
+Once the basic test is passing, then add a more specific test
+
+{% highlight javascript %}
+find('table.unassigned tr.cards');
+assert.equal(3);
+var project = find('table.unassigned tr.cards:eq(0)');
+assert.equal(project.text(), 'first');
+{% end %}
+
+Then, refactor the selector
+
+{% highlight javascript %}
+find('.unassigned .cards');
+assert.equal(3);
+var project = find('.unassigned .cards:eq(0)');
+assert.equal(project.text(), 'first');
+{% end %}

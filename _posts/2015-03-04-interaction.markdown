@@ -26,4 +26,13 @@ is true reusability/portability.
 
 World class routing and state management, while using the Web Animations API.
 
+<https://github.com/blangslet/ember.js-mobile-animations-gestures>
+<https://github.com/blangslet/treasure-hunt>
 
+## Dream stack
+
+* Ember for routing, architecture, translation, and state manipulation
+* Polymer for layout grid
+* Ember components for complex data
+* Polymer components for animation and layout functionality
+* Polymer for polyfills

@@ -74,4 +74,6 @@ Strategy:
 * use syntax as a carrot
 * private use can start sooner
 
+Standards are a two-way street.
 
+<http://201-created.com/ember-community-survey-2015>.

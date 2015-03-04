@@ -1,4 +1,4 @@
-
+---
 layout: post
 title:  Bring Sanity to Frontend Infrastructure with Ember 
 date:   2015-03-03 16:00:20

@@ -14,7 +14,7 @@ layout: default
   </p>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li class="post-list-item">
         <h2>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <br>

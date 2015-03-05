@@ -11,7 +11,7 @@ designers, too, as design isn't just about what things look like.
 
 ## What is good design?
 
-It doesn't matter what you think, it matters what your users thinks.
+It doesn't matter what you think, it matters what your users think.
 
 ### Reactive
 

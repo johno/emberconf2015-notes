@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  Closing Keynote
-date:   2015-03-04 17:30:20
-categories:
+layout:  post
+title:   Closing Keynote
+date:    2015-03-04 17:30:20
+slides:  http://www.slideshare.net/chriseppstein/ember-closing-keynote
 speaker: Chris Eppstein
 ---
 
@@ -23,3 +23,9 @@ Be nice. On the internet, our words are cached.
 > Don't be a Sasshole
 
 Conundrum: How to compete without being negative?
+
+# What does _win_ even mean?
+
+> Use a framework you love, and you'll never work a day in your life.
+
+Being #2 might be the sweet spot.

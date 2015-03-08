@@ -3,6 +3,7 @@ layout: post
 title:  Designing for Ember Apps
 date:   2015-03-03 11:32:20
 categories:
+slides: https://speakerdeck.com/kidfribble/designing-for-single-page-applications
 speaker: Steve Trevathan
 ---
 

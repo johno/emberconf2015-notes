@@ -8,11 +8,6 @@ layout: default
     <small>EmberConf 2015</small>
   </h1>
 
-  <p class="mb4">
-    I will be aggregating my notes from EmberConf 2015 on this website, with links to the speakers
-    themselves and their slides (if provided).
-  </p>
-
   <ul class="post-list">
     {% for post in site.posts reversed %}
       <li class="post-list-item">
@@ -20,6 +15,14 @@ layout: default
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <br>
           <small>by {{ post.speaker }}</small>
         </h2>
+        <h6>
+          {% if post.slides %}
+            <a href="{{ post.slides }}">slides</a>
+          {% endif %}
+          {% if post.video %}
+            <a href="{{ post.video }}">video</a>
+          {% endif %}
+        </h6>
       </li>
     {% endfor %}
   </ul>

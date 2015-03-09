@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  The Opening Keynote
-date:   2015-03-03 09:24:20
-categories:
+layout:  post
+title:   The Opening Keynote
+date:    2015-03-03 09:24:20
+video:   https://www.youtube.com/watch?v=o12-90Dm-Qs&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=1
+slides:  https://speakerdeck.com/wycats/emberconf-2015-keynote
 speaker: Yehuda Katz and Tom Dale
 ---
 

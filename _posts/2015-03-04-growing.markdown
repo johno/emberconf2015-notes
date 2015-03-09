@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Growing Ember One Tomster at a Time
-date:   2015-03-04 11:30:20
-categories:
+layout:  post
+title:   Growing Ember One Tomster at a Time
+date:    2015-03-04 11:30:20
+video:   https://www.youtube.com/watch?v=xsG0gDkvDPw&index=11&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  https://speakerdeck.com/jgwhite/growing-ember-one-tomster-at-a-time
 speaker: Jamie White
 ---
 
@@ -54,5 +55,3 @@ The documentation and community are _also_ user interfaces.
 A community has specialized roles, too. Documenteer, mentor, student, explorer, critic, etc.
 
 # Provide a home for good ideas
-
-

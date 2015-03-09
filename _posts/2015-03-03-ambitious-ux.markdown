@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Ambitious UX for Ambitious Apps 
-date:   2015-03-03 15:00:20
-categories:
+layout:  post
+title:   Ambitious UX for Ambitious Apps
+date:    2015-03-03 15:00:20
+video:   https://www.youtube.com/watch?v=TlU0m18Pr-Y&index=6&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  https://speakerdeck.com/poteto/emberconf-2015-ambitious-ux-for-ambitious-apps
 speaker: Lauren Tan
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  Physical Design
-date:   2015-03-04 16:45:20
-categories:
+layout:  post
+title:   Physical Design
+date:    2015-03-04 16:45:20
+video:   https://www.youtube.com/watch?v=p8aF-7-_cE8&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=15
 speaker: Edward Faulkner
 ---
 

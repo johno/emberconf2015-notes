@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Building Custom Apps with Ember CLI
-date:   2015-03-04 14:15:20
-categories:
+layout:  post
+title:   Building Custom Apps with Ember CLI
+date:    2015-03-04 14:15:20
+video:   https://www.youtube.com/watch?v=J6vPwvFdUiE&index=13&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  http://brittanystoroz.github.io/presentations/embercli-fxos/
 speaker: Brittany Storoz
 ---
 

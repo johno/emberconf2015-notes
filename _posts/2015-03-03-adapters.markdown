@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Hijacking Hacker News with Ember.js 
-date:   2015-03-03 13:30:20
-categories:
+layout:  post
+title:   Hijacking Hacker News with Ember.js
+date:    2015-03-03 13:30:20
+video:   https://www.youtube.com/watch?v=PXB93Z8azZE&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=4
+slides:  https://speakerdeck.com/chancancode/hijacking-hacker-news-with-ember-dot-js
 speaker: Godfrey Chan
 ---
 
@@ -26,7 +27,7 @@ HN Urls => serialized app states
 `Ember.HistoryLocation`/`Ember.HashLocation` expose a uniform interface for the stack
 to consume. For the sake of hn-reader, a new adapter can be created.
 
-Local storage is very similar to `Ember.Observable`. 
+Local storage is very similar to `Ember.Observable`.
 
 The adapter pattern is rad.
 

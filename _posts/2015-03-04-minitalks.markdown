@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  Minitalks
-date:   2015-03-04 16:00:20
-categories:
+layout:  post
+title:   Minitalks
+date:    2015-03-04 16:00:20
+video:   https://www.youtube.com/watch?v=K4fyHxg3Ldk&index=17&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
 speaker: Awesome Ember People
 ---
 
@@ -46,4 +46,3 @@ Dealing with CSS in your ambitious application. Organized through conventions. C
 all the things, including your CSS.
 
 <https://github.com/ebryn/ember-component-css>
-

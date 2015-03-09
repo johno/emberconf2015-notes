@@ -1,8 +1,9 @@
 ---
 layout:  post
 title:   Closing Keynote
-date:    2015-03-04 17:30:20
+date:    2015-03-04 17:30:00
 slides:  http://www.slideshare.net/chriseppstein/ember-closing-keynote
+video:   https://www.youtube.com/watch?v=qWcNZ3j3y6g&index=16&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
 speaker: Chris Eppstein
 ---
 

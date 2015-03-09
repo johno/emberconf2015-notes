@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Designing for Ember Apps
-date:   2015-03-03 11:32:20
-categories:
+layout:  post
+title:   Designing for Ember Apps
+date:    2015-03-03 11:32:20
+video:   https://www.youtube.com/watch?v=ijiNbF2Wu0E&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=3
+slides:  https://speakerdeck.com/kidfribble/designing-for-single-page-applications
 speaker: Steve Trevathan
 ---
 
@@ -71,5 +72,3 @@ Can cause issues.
 A free design pattern library.
 
 <http://toolsofthetrade.dockyard.com>
-
-

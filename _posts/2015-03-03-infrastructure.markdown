@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Bring Sanity to Frontend Infrastructure with Ember 
-date:   2015-03-03 16:00:20
-categories:
+layout:  post
+title:   Bring Sanity to Frontend Infrastructure with Ember
+date:    2015-03-03 16:00:20
+video:   https://www.youtube.com/watch?v=iwPsNTkyCcA&index=7&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  http://www.slideshare.net/samselikoff/frontend-infrastructure
 speaker: Sam Selikoff
 ---
 
@@ -65,4 +66,3 @@ the process and structure will need to evolve in the future.
 # Ember is not just a framework, it's a philosophy
 
 Fold in shared solutions. Innovate and share.
-

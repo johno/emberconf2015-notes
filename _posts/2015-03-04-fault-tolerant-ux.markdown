@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  Fault Tolerant UX
-date:   2015-03-04 10:00:20
-categories:
+layout:  post
+title:   Fault Tolerant UX
+date:    2015-03-04 10:00:20
+slides:  https://speakerdeck.com/dgeb/fault-tolerant-ux
 speaker: Dan Gebhart
 ---
 

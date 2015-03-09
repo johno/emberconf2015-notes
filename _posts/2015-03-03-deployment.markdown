@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  The Art of Ember Deployment 
-date:   2015-03-03 14:15:20
-categories:
+layout:  post
+title:   The Art of Ember Deployment
+date:    2015-03-03 14:15:20
+video:   https://www.youtube.com/watch?v=4EDetv_Rw5U&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=5
+slides:  https://speakerdeck.com/lukemelia/the-art-of-ember-app-deployment
 speaker: Luke Melia
 ---
 

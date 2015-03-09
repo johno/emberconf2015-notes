@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Interaction Design with Ember 2.0 and Polymer
-date:   2015-03-04 13:30:20
-categories:
+layout:  post
+title:   Interaction Design with Ember 2.0 and Polymer
+date:    2015-03-04 13:30:00
+video:   https://www.youtube.com/watch?v=Z8NDAiOZ8SE&index=12&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  https://speakerdeck.com/blangslet/interaction-design-with-ember-2-dot-0-and-polymer
 speaker: Bryan Langslet
 ---
 

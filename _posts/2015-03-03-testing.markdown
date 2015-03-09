@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  Test-Driven Development by Example
-date:   2015-03-03 17:30:20
-categories:
+layout:  post
+title:   Test-Driven Development by Example
+date:    2015-03-03 17:30:20
+video:   https://www.youtube.com/watch?v=2b1vcg_XSR8&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=9
 speaker: Toran Billups
 ---
 
@@ -52,4 +52,3 @@ test('it does stuff', function() {
 
 
 `ember test --server --filter="todo"`
-

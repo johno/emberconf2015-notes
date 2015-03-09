@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Aligning Ember with Web Standards
-date:   2015-03-04 10:45:20
-categories:
+layout:  post
+title:   Aligning Ember with Web Standards
+date:    2015-03-04 10:45:20
+video:   https://www.youtube.com/watch?v=knYeLk1EuHw&index=10&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  http://www.slideshare.net/mixonic/aligning-emberjs-with-web-standards
 speaker: Matthew Beale
 ---
 

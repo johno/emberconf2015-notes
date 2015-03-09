@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  Performance 
-date:   2015-03-03 11:03:20
-categories:
+layout:  post
+title:   Performance
+date:    2015-03-03 11:03:20
+video:   https://www.youtube.com/watch?v=iTZxo6bSx44&index=2&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
 speaker: Stefan Penner
 ---
 
@@ -71,4 +71,3 @@ code that actually needs it.
 Benchmarks will trick you. You need insight, measurement, and peer review.
 
 # Actions up and bindings down
-

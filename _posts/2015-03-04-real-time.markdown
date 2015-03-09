@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Building Real-Time Applications with Ember
-date:   2015-03-04 15:00:20
-categories:
+layout:  post
+title:   Building Real-Time Applications with Ember
+date:    2015-03-04 15:00:20
+video:   https://www.youtube.com/watch?v=nfGORL8ebn8&index=14&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  http://www.slideshare.net/stevekinney/building-realtime-applications-in-emberjs
 speaker: Steve Kinney
 ---
 

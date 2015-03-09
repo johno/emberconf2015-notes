@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Dynamic Graphic Composition in Ember
-date:   2015-03-03 16:30:20
-categories:
+layout:  post
+title:   Dynamic Graphic Composition in Ember
+date:    2015-03-03 16:30:20
+video:   https://www.youtube.com/watch?v=J-LpgGqyxcI&index=8&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU
+slides:  https://speakerdeck.com/chnn/composing-data-visualizations-in-ember
 speaker: Chris Henn
 ---
 
@@ -13,7 +14,7 @@ Benefits:
 * Can change one feature of the graphic at a time.
 * Easier to digest.
 * Suggests the aspects that are _possible_ to change.
-* Encourages cusom viz for every data situation. 
+* Encourages cusom viz for every data situation.
 
 Resulting in conveying data better.
 
@@ -48,4 +49,3 @@ aesthetic mappings.
 * Animations and transitions
   * Performance
 * When is the grammar appropriate?
-

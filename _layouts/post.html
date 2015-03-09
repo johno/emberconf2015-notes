@@ -5,11 +5,11 @@ layout: default
   <h1 class="h0 py3 mt2">{{ page.title }}</h1>
 
   <p class="m0 p0 post-list-links">
-    {% if slides %}
-      <a href="{{ slides }}">slides</a>
+    {% if page.slides %}
+      <a href="{{ page.slides }}">slides</a>
     {% endif %}
-    {% if video %}
-      <a href="{{ video }}">video</a>
+    {% if page.video %}
+      <a href="{{ page.video }}">video</a>
     {% endif %}
   </p>
 

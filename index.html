@@ -15,14 +15,14 @@ layout: default
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <br>
           <small>by {{ post.speaker }}</small>
         </h2>
-        <h6>
+        <p class="m0 p0">
           {% if post.slides %}
             <a href="{{ post.slides }}">slides</a>
           {% endif %}
           {% if post.video %}
             <a href="{{ post.video }}">video</a>
           {% endif %}
-        </h6>
+        </p>
       </li>
     {% endfor %}
   </ul>

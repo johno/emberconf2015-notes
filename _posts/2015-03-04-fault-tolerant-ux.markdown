@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  Fault Tolerant UX
-date:   2015-03-04 10:00:20
-categories:
+layout:  post
+title:   Fault Tolerant UX
+date:    2015-03-04 10:00:20
+video:   https://www.youtube.com/watch?v=s2awUFvA-0I&list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU&index=18
+slides:  
 speaker: Dan Gebhart
 ---
 
